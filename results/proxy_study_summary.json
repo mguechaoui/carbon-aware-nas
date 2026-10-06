@@ -1,0 +1,8 @@
+{
+ "n": 24,
+ "short_epochs": 2,
+ "long_epochs": 8,
+ "spearman": 0.9860869565217389,
+ "kendall": 0.9347826086956522,
+ "top_k_recall": "5/5 of the best-5 (long) are within the top-10 (short)"
+}

@@ -1,0 +1,266 @@
+[
+ {
+  "arch": {
+   "depth": 2,
+   "base": 32,
+   "kernel": 3,
+   "expand": 2,
+   "res": 32
+  },
+  "acc_short": 0.5656,
+  "acc_long": 0.6862
+ },
+ {
+  "arch": {
+   "depth": 2,
+   "base": 16,
+   "kernel": 5,
+   "expand": 4,
+   "res": 40
+  },
+  "acc_short": 0.5532,
+  "acc_long": 0.6742
+ },
+ {
+  "arch": {
+   "depth": 4,
+   "base": 32,
+   "kernel": 3,
+   "expand": 1,
+   "res": 24
+  },
+  "acc_short": 0.5976,
+  "acc_long": 0.7258
+ },
+ {
+  "arch": {
+   "depth": 5,
+   "base": 16,
+   "kernel": 5,
+   "expand": 1,
+   "res": 24
+  },
+  "acc_short": 0.5754,
+  "acc_long": 0.7084
+ },
+ {
+  "arch": {
+   "depth": 4,
+   "base": 48,
+   "kernel": 3,
+   "expand": 1,
+   "res": 24
+  },
+  "acc_short": 0.6424,
+  "acc_long": 0.7514
+ },
+ {
+  "arch": {
+   "depth": 3,
+   "base": 24,
+   "kernel": 3,
+   "expand": 2,
+   "res": 32
+  },
+  "acc_short": 0.595,
+  "acc_long": 0.7138
+ },
+ {
+  "arch": {
+   "depth": 6,
+   "base": 48,
+   "kernel": 5,
+   "expand": 2,
+   "res": 24
+  },
+  "acc_short": 0.7288,
+  "acc_long": 0.8408
+ },
+ {
+  "arch": {
+   "depth": 4,
+   "base": 32,
+   "kernel": 5,
+   "expand": 1,
+   "res": 40
+  },
+  "acc_short": 0.64,
+  "acc_long": 0.7648
+ },
+ {
+  "arch": {
+   "depth": 6,
+   "base": 32,
+   "kernel": 3,
+   "expand": 2,
+   "res": 40
+  },
+  "acc_short": 0.6972,
+  "acc_long": 0.8412
+ },
+ {
+  "arch": {
+   "depth": 6,
+   "base": 48,
+   "kernel": 5,
+   "expand": 4,
+   "res": 40
+  },
+  "acc_short": 0.8008,
+  "acc_long": 0.8926
+ },
+ {
+  "arch": {
+   "depth": 5,
+   "base": 32,
+   "kernel": 3,
+   "expand": 4,
+   "res": 24
+  },
+  "acc_short": 0.7138,
+  "acc_long": 0.8338
+ },
+ {
+  "arch": {
+   "depth": 2,
+   "base": 48,
+   "kernel": 5,
+   "expand": 1,
+   "res": 32
+  },
+  "acc_short": 0.5696,
+  "acc_long": 0.6864
+ },
+ {
+  "arch": {
+   "depth": 4,
+   "base": 48,
+   "kernel": 3,
+   "expand": 4,
+   "res": 32
+  },
+  "acc_short": 0.72,
+  "acc_long": 0.838
+ },
+ {
+  "arch": {
+   "depth": 5,
+   "base": 32,
+   "kernel": 3,
+   "expand": 1,
+   "res": 40
+  },
+  "acc_short": 0.6272,
+  "acc_long": 0.7608
+ },
+ {
+  "arch": {
+   "depth": 2,
+   "base": 32,
+   "kernel": 3,
+   "expand": 2,
+   "res": 24
+  },
+  "acc_short": 0.553,
+  "acc_long": 0.6596
+ },
+ {
+  "arch": {
+   "depth": 5,
+   "base": 16,
+   "kernel": 5,
+   "expand": 2,
+   "res": 40
+  },
+  "acc_short": 0.6562,
+  "acc_long": 0.8002
+ },
+ {
+  "arch": {
+   "depth": 3,
+   "base": 48,
+   "kernel": 3,
+   "expand": 1,
+   "res": 40
+  },
+  "acc_short": 0.591,
+  "acc_long": 0.7078
+ },
+ {
+  "arch": {
+   "depth": 5,
+   "base": 48,
+   "kernel": 5,
+   "expand": 1,
+   "res": 24
+  },
+  "acc_short": 0.691,
+  "acc_long": 0.8042
+ },
+ {
+  "arch": {
+   "depth": 3,
+   "base": 48,
+   "kernel": 3,
+   "expand": 1,
+   "res": 32
+  },
+  "acc_short": 0.5988,
+  "acc_long": 0.7356
+ },
+ {
+  "arch": {
+   "depth": 4,
+   "base": 32,
+   "kernel": 5,
+   "expand": 4,
+   "res": 32
+  },
+  "acc_short": 0.7366,
+  "acc_long": 0.8522
+ },
+ {
+  "arch": {
+   "depth": 2,
+   "base": 16,
+   "kernel": 3,
+   "expand": 4,
+   "res": 32
+  },
+  "acc_short": 0.5346,
+  "acc_long": 0.6472
+ },
+ {
+  "arch": {
+   "depth": 2,
+   "base": 16,
+   "kernel": 5,
+   "expand": 1,
+   "res": 40
+  },
+  "acc_short": 0.4614,
+  "acc_long": 0.563
+ },
+ {
+  "arch": {
+   "depth": 5,
+   "base": 16,
+   "kernel": 5,
+   "expand": 1,
+   "res": 32
+  },
+  "acc_short": 0.6222,
+  "acc_long": 0.7272
+ },
+ {
+  "arch": {
+   "depth": 5,
+   "base": 32,
+   "kernel": 3,
+   "expand": 4,
+   "res": 40
+  },
+  "acc_short": 0.7144,
+  "acc_long": 0.8474
+ }
+]

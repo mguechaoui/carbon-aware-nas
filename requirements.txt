@@ -1,0 +1,6 @@
+optuna
+numpy
+pandas
+scikit-learn
+matplotlib
+nvidia-ml-py

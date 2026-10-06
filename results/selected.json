@@ -1,0 +1,122 @@
+[
+ {
+  "arch": {
+   "depth": 5,
+   "base": 16,
+   "kernel": 5,
+   "expand": 1,
+   "res": 24
+  },
+  "cpu_latency_ms": 2.0616769998014206,
+  "energy_spread": 0.050245631730401905,
+  "gpu_energy_mj": 0.20989762639931533,
+  "gpu_idle_power_w": 10.204057553956835,
+  "gpu_latency_ms": 0.09787429782477375,
+  "gpu_power_std_w": 0.025380750118680302,
+  "gpu_power_w": 12.348038709677418,
+  "macs": 1624448,
+  "params": 22874,
+  "val_acc": 0.6172,
+  "trial": 34
+ },
+ {
+  "arch": {
+   "depth": 5,
+   "base": 48,
+   "kernel": 3,
+   "expand": 1,
+   "res": 24
+  },
+  "cpu_latency_ms": 2.1961790007480886,
+  "energy_spread": 0.012504688700075746,
+  "gpu_energy_mj": 0.7404303683868957,
+  "gpu_idle_power_w": 10.204057553956835,
+  "gpu_latency_ms": 0.26895623511899475,
+  "gpu_power_std_w": 0.019775090473981086,
+  "gpu_power_w": 12.95713142857143,
+  "macs": 7469696,
+  "params": 105466,
+  "val_acc": 0.7156,
+  "trial": 32
+ },
+ {
+  "arch": {
+   "depth": 6,
+   "base": 48,
+   "kernel": 5,
+   "expand": 1,
+   "res": 32
+  },
+  "cpu_latency_ms": 3.2231050008704187,
+  "energy_spread": 0.006873839343809049,
+  "gpu_energy_mj": 1.444052594288328,
+  "gpu_idle_power_w": 10.204057553956835,
+  "gpu_latency_ms": 0.5092968135414822,
+  "gpu_power_std_w": 0.02522081521570756,
+  "gpu_power_w": 13.040031746031746,
+  "macs": 17616128,
+  "params": 155578,
+  "val_acc": 0.784,
+  "trial": 20
+ },
+ {
+  "arch": {
+   "depth": 6,
+   "base": 48,
+   "kernel": 5,
+   "expand": 1,
+   "res": 40
+  },
+  "cpu_latency_ms": 3.2248740008071763,
+  "energy_spread": 0.007639314033387446,
+  "gpu_energy_mj": 2.228519190026811,
+  "gpu_idle_power_w": 10.204057553956835,
+  "gpu_latency_ms": 0.8056970704861517,
+  "gpu_power_std_w": 0.018625669264634697,
+  "gpu_power_w": 12.970044444444445,
+  "macs": 27524480,
+  "params": 155578,
+  "val_acc": 0.7896,
+  "trial": 22
+ },
+ {
+  "arch": {
+   "depth": 6,
+   "base": 48,
+   "kernel": 5,
+   "expand": 4,
+   "res": 24
+  },
+  "cpu_latency_ms": 5.624560999422101,
+  "energy_spread": 0.02133941170730214,
+  "gpu_energy_mj": 3.6323052531217153,
+  "gpu_idle_power_w": 10.204057553956835,
+  "gpu_latency_ms": 1.3493172044263702,
+  "gpu_power_std_w": 0.02470247466633753,
+  "gpu_power_w": 12.896072289156626,
+  "macs": 66591488,
+  "params": 927322,
+  "val_acc": 0.8038,
+  "trial": 46
+ },
+ {
+  "arch": {
+   "depth": 6,
+   "base": 48,
+   "kernel": 5,
+   "expand": 4,
+   "res": 40
+  },
+  "cpu_latency_ms": 7.3505710024619475,
+  "energy_spread": 0.007779588276300142,
+  "gpu_energy_mj": 9.143663528278895,
+  "gpu_idle_power_w": 10.204057553956835,
+  "gpu_latency_ms": 3.3918956052085982,
+  "gpu_power_std_w": 0.02654406967411158,
+  "gpu_power_w": 12.899337620578779,
+  "macs": 184974080,
+  "params": 927322,
+  "val_acc": 0.828,
+  "trial": 59
+ }
+]
