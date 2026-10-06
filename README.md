@@ -35,9 +35,15 @@ Everything here was measured on one consumer laptop GPU (RTX 3050, 4 GB, WSL2) w
 ## Results
 
 ### Model library
-
 <!-- MODELS_TABLE_START -->
-Run `python make_results_table.py` to fill this table from `models/*/metadata.json`.
+| Model | Architecture (depth / base ch. / kernel / expansion / internal res.) | Params | MMACs | Test acc. (%) | GPU energy (mJ/inf.) | GPU latency (ms/inf.) | CPU latency (ms, batch 1) | Model-load switch (ms) |
+|---|---|---:|---:|---:|---:|---:|---:|---:|
+| model_00 | 5 / 16 / 5 / 1 / 24 | 23k | 1.6 | 76.0 | 0.22 | 0.098 | 1.97 | 64 |
+| model_01 | 5 / 48 / 3 / 1 / 24 | 105k | 7.5 | 81.7 | 0.74 | 0.269 | 2.25 | 72 |
+| model_02 | 6 / 48 / 5 / 1 / 32 | 156k | 17.6 | 85.7 | 1.46 | 0.509 | 2.75 | 79 |
+| model_03 | 6 / 48 / 5 / 1 / 40 | 156k | 27.5 | 87.0 | 2.31 | 0.806 | 3.04 | 102 |
+| model_04 | 6 / 48 / 5 / 4 / 24 | 927k | 66.6 | 87.8 | 3.57 | 1.349 | 5.45 | 153 |
+| model_05 | 6 / 48 / 5 / 4 / 40 | 927k | 185.0 | 90.7 | 8.65 | 3.393 | 8.79 | 311 |
 <!-- MODELS_TABLE_END -->
 
 ### Energy predictor (72 held-out architectures)
